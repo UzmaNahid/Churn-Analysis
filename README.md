@@ -1,2 +1,15 @@
-# Churn-Analysis
-End-to-end churn analysis using SQL for data cleaning, transformation, and churn/retention calculations. Built an interactive Power BI dashboard showing total customers, new joiners, churn count, churn rate, and segment insights. Identified key churn drivers across regions, demographics, and payment methods
+# Churn-Analysis(SQL and Power BI)
+## Project Objective
+To perform end-to-end churn analysis using SQL for data preparation and Power BI for visualization. To uncover churn patterns across regions, demographics, and tenure to support data-driven retention strategies.
+
+## Questions(KPI)
+1. What is the total number of active customers in the current period?
+2. How many new customers joined during the selected period?
+3. How many customers churned during the period?
+4. What is the overall churn rate and how is it trending over time?
+5. Which regions have the highest and lowest churn?
+6. Which customer demographics gender show higher churn?
+7. Which customer tenure ranges are most likely to churn?
+8. Which payment methods or service types have high churn?
+
+   Dashboard Interaction 
