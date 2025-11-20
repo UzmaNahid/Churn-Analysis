@@ -15,4 +15,4 @@ To perform end-to-end churn analysis using SQL for data preparation and Power BI
    Dashboard Interaction <a href="https://github.com/UzmaNahid/Churn-Analysis/blob/main/churn%20analysis.pbix"> view dashboard<a/a>
 
    ## Dashboard
-   
+   https://github.com/UzmaNahid/Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.png
