@@ -12,4 +12,7 @@ To perform end-to-end churn analysis using SQL for data preparation and Power BI
 7. Which customer tenure ranges are most likely to churn?
 8. Which payment methods or service types have high churn?
 
-   Dashboard Interaction 
+   Dashboard Interaction <a href="https://github.com/UzmaNahid/Churn-Analysis/blob/main/churn%20analysis.pbix"> view dashboard<a/a>
+
+   ## Dashboard
+   
