@@ -15,7 +15,8 @@ To perform end-to-end churn analysis using SQL for data preparation and Power BI
    Dashboard Interaction <a href="https://github.com/UzmaNahid/Churn-Analysis/blob/main/churn%20analysis.pbix"> view dashboard<a/a>
 
    ## Dashboard
-   https://github.com/UzmaNahid/Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.png
+  <img width="894" height="495" alt="Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/d63147a5-a646-445e-8d61-4a762709ee6e" />
+
 
 ## Conclusion
 The project uncovers the key drivers behind customer churn, showing how factors like tenure, region, and demographics impact retention. These insights help the business focus on at-risk customers, strengthen loyalty initiatives, and support data-driven decision-making.
